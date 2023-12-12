@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "type": "travel",
+        "content": "Mar del Plata Terminal",
+        "price": 15000
+    },
+    {
+        "id": 2,
+        "type": "travel",
+        "content": "San Salvador de Jujuy Terminal",
+        "price": 17000
+    },
+    {
+        "id": 3,
+        "type": "travel",
+        "content": "Catamarca Terminal",
+        "price": 15000
+    },
+    {
+        "id": 4,
+        "type": "travel",
+        "content": "Buenos Aires. Terminal Retiro",
+        "price": 13000
+    },
+    {
+        "id": 5,
+        "type": "travel",
+        "content": "Cordoba Terminal",
+        "price": 15000
+    },
+    {
+        "id": 6,
+        "type": "company",
+        "content": "Chevallier",
+        "price": 80000
+    },
+    {
+        "id": 7,
+        "type": "company",
+        "content": "Flecha Bus",
+        "price": 13000
+    },
+    {
+        "id": 8,
+        "type": "company",
+        "content": "Ñandu del sur",
+        "price": 15000
+    },
+    {
+        "id": 9,
+        "type": "company",
+        "content": "Via Tac",
+        "price": 11000
+    }
+]

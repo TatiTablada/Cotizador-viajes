@@ -1,0 +1,72 @@
+
+h1 {
+    text-align: center;
+    margin: 1rem;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    text-decoration: none;
+    color:black;
+    margin: 1rem;
+   font-size: 23px;
+
+}
+
+fieldset {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+select {
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.btnSave{
+    padding: 0.5rem;
+    margin: 1rem;
+    width: 70px;
+    border: none;
+    cursor: pointer;
+    background-color:rosybrown;
+    border-radius: 1rem;
+    color: white;
+}
+
+.loadingGif {
+    width: 200px;
+    text-align: center;
+}
+
+.cargando {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnCotizar {
+    padding: 0.5rem;
+    margin: 1rem;
+    width: 70px;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    background-color:rgb(185, 115, 250) ;
+}
+
+.btnCotizar:hover {
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+
+.btnCotizar:active {
+    background-color: black;
+}
